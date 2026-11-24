@@ -1,0 +1,31 @@
+{
+  "name": "漢字くみたて（1〜6年）",
+  "short_name": "漢字くみたて",
+  "description": "部品を組み立てて漢字を作る。1〜6年・学年別漢字配当表の1026字。URLを開くだけ・記録はこの端末だけ。",
+  "lang": "ja",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbf6ec",
+  "theme_color": "#fbf6ec",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
